@@ -1,0 +1,14 @@
+C:\Users\Yuriy\documents\visual studio 2013\Projects\PharmacySolution\App\PharmacySolution.Data\bin\Release\PharmacySolution.Data.dll.config
+C:\Users\Yuriy\documents\visual studio 2013\Projects\PharmacySolution\App\PharmacySolution.Data\bin\Release\PharmacySolution.Data.dll
+C:\Users\Yuriy\documents\visual studio 2013\Projects\PharmacySolution\App\PharmacySolution.Data\bin\Release\PharmacySolution.Data.pdb
+C:\Users\Yuriy\documents\visual studio 2013\Projects\PharmacySolution\App\PharmacySolution.Data\bin\Release\EntityFramework.dll
+C:\Users\Yuriy\documents\visual studio 2013\Projects\PharmacySolution\App\PharmacySolution.Data\bin\Release\EntityFramework.SqlServer.dll
+C:\Users\Yuriy\documents\visual studio 2013\Projects\PharmacySolution\App\PharmacySolution.Data\bin\Release\PharmacySolution.Contracts.dll
+C:\Users\Yuriy\documents\visual studio 2013\Projects\PharmacySolution\App\PharmacySolution.Data\bin\Release\PharmacySolution.Core.dll
+C:\Users\Yuriy\documents\visual studio 2013\Projects\PharmacySolution\App\PharmacySolution.Data\bin\Release\PharmacySolution.Contracts.pdb
+C:\Users\Yuriy\documents\visual studio 2013\Projects\PharmacySolution\App\PharmacySolution.Data\bin\Release\PharmacySolution.Core.pdb
+C:\Users\Yuriy\documents\visual studio 2013\Projects\PharmacySolution\App\PharmacySolution.Data\bin\Release\EntityFramework.xml
+C:\Users\Yuriy\documents\visual studio 2013\Projects\PharmacySolution\App\PharmacySolution.Data\bin\Release\EntityFramework.SqlServer.xml
+C:\Users\Yuriy\documents\visual studio 2013\Projects\PharmacySolution\App\PharmacySolution.Data\obj\Release\PharmacySolution.Data.csprojResolveAssemblyReference.cache
+C:\Users\Yuriy\documents\visual studio 2013\Projects\PharmacySolution\App\PharmacySolution.Data\obj\Release\PharmacySolution.Data.dll
+C:\Users\Yuriy\documents\visual studio 2013\Projects\PharmacySolution\App\PharmacySolution.Data\obj\Release\PharmacySolution.Data.pdb

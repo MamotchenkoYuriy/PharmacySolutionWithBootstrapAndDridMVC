@@ -1,0 +1,7 @@
+C:\Users\Yuriy\documents\visual studio 2013\Projects\PharmacySolution\App\PharmacySolution.Core\bin\Release\PharmacySolution.Core.dll
+C:\Users\Yuriy\documents\visual studio 2013\Projects\PharmacySolution\App\PharmacySolution.Core\bin\Release\PharmacySolution.Core.pdb
+C:\Users\Yuriy\documents\visual studio 2013\Projects\PharmacySolution\App\PharmacySolution.Core\bin\Release\PharmacySolution.Contracts.dll
+C:\Users\Yuriy\documents\visual studio 2013\Projects\PharmacySolution\App\PharmacySolution.Core\bin\Release\PharmacySolution.Contracts.pdb
+C:\Users\Yuriy\documents\visual studio 2013\Projects\PharmacySolution\App\PharmacySolution.Core\obj\Release\PharmacySolution.Core.csprojResolveAssemblyReference.cache
+C:\Users\Yuriy\documents\visual studio 2013\Projects\PharmacySolution\App\PharmacySolution.Core\obj\Release\PharmacySolution.Core.dll
+C:\Users\Yuriy\documents\visual studio 2013\Projects\PharmacySolution\App\PharmacySolution.Core\obj\Release\PharmacySolution.Core.pdb

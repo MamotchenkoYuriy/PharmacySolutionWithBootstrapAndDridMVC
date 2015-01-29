@@ -1,0 +1,14 @@
+C:\Users\Yuriy\documents\visual studio 2013\Projects\PharmacySolution\App\PharmacySolution.BusinessLogic\bin\Release\PharmacySolution.BusinessLogic.dll.config
+C:\Users\Yuriy\documents\visual studio 2013\Projects\PharmacySolution\App\PharmacySolution.BusinessLogic\bin\Release\PharmacySolution.BusinessLogic.dll
+C:\Users\Yuriy\documents\visual studio 2013\Projects\PharmacySolution\App\PharmacySolution.BusinessLogic\bin\Release\PharmacySolution.BusinessLogic.pdb
+C:\Users\Yuriy\documents\visual studio 2013\Projects\PharmacySolution\App\PharmacySolution.BusinessLogic\bin\Release\EntityFramework.dll
+C:\Users\Yuriy\documents\visual studio 2013\Projects\PharmacySolution\App\PharmacySolution.BusinessLogic\bin\Release\EntityFramework.SqlServer.dll
+C:\Users\Yuriy\documents\visual studio 2013\Projects\PharmacySolution\App\PharmacySolution.BusinessLogic\bin\Release\PharmacySolution.Contracts.dll
+C:\Users\Yuriy\documents\visual studio 2013\Projects\PharmacySolution\App\PharmacySolution.BusinessLogic\bin\Release\PharmacySolution.Core.dll
+C:\Users\Yuriy\documents\visual studio 2013\Projects\PharmacySolution\App\PharmacySolution.BusinessLogic\bin\Release\PharmacySolution.Contracts.pdb
+C:\Users\Yuriy\documents\visual studio 2013\Projects\PharmacySolution\App\PharmacySolution.BusinessLogic\bin\Release\PharmacySolution.Core.pdb
+C:\Users\Yuriy\documents\visual studio 2013\Projects\PharmacySolution\App\PharmacySolution.BusinessLogic\bin\Release\EntityFramework.xml
+C:\Users\Yuriy\documents\visual studio 2013\Projects\PharmacySolution\App\PharmacySolution.BusinessLogic\bin\Release\EntityFramework.SqlServer.xml
+C:\Users\Yuriy\documents\visual studio 2013\Projects\PharmacySolution\App\PharmacySolution.BusinessLogic\obj\Release\PharmacySolution.BusinessLogic.csprojResolveAssemblyReference.cache
+C:\Users\Yuriy\documents\visual studio 2013\Projects\PharmacySolution\App\PharmacySolution.BusinessLogic\obj\Release\PharmacySolution.BusinessLogic.dll
+C:\Users\Yuriy\documents\visual studio 2013\Projects\PharmacySolution\App\PharmacySolution.BusinessLogic\obj\Release\PharmacySolution.BusinessLogic.pdb

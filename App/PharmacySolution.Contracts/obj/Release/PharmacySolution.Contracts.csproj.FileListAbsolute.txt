@@ -1,0 +1,4 @@
+C:\Users\Yuriy\documents\visual studio 2013\Projects\PharmacySolution\App\PharmacySolution.Contracts\bin\Release\PharmacySolution.Contracts.dll
+C:\Users\Yuriy\documents\visual studio 2013\Projects\PharmacySolution\App\PharmacySolution.Contracts\bin\Release\PharmacySolution.Contracts.pdb
+C:\Users\Yuriy\documents\visual studio 2013\Projects\PharmacySolution\App\PharmacySolution.Contracts\obj\Release\PharmacySolution.Contracts.dll
+C:\Users\Yuriy\documents\visual studio 2013\Projects\PharmacySolution\App\PharmacySolution.Contracts\obj\Release\PharmacySolution.Contracts.pdb
